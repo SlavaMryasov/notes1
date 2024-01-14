@@ -1,0 +1,21 @@
+настройка vs code
+https://code.visualstudio.com/api/references/theme-color
+
+
+npm to yarn
+https://classic.yarnpkg.com/lang/en/docs/migrating-from-npm/#toc-cli-commands-comparison
+
+
+html атрибуты
+https://developer.mozilla.org/ru/docs/Web/HTML/Attributes
+
+гриды 
+https://tonyshow.notion.site/Grid-CSS-588afd5c94b84fb1b1b84e85bcc0828a
+
+
+готовые стили для таблиц 
+https://snipp.ru/html-css/table-style
+
+
+бордер с градиентом 
+https://sitist.ru/info-gradient-border.htm
